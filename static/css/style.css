@@ -1189,8 +1189,9 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 .contacts-4 .links a {
   padding-bottom: 3px;
   color: #14ddb3;
-  border-bottom: 2px solid;
+/*  border-bottom: 2px solid; */
 }
+
 .contacts-4 .links a:hover,
 .contacts-4 .links a:focus,
 .contacts-4 .links a.active {
