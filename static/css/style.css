@@ -1097,6 +1097,22 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   -o-transition: color 0.4s;
   transition: color 0.4s;
 }
+.projects-4 .projects .name.color-pumpkin:hover,
+.projects-4 .projects .name.color-pumpkin.hover {
+  color: #d35400;
+  -webkit-transition: color 0.4s;
+  -moz-transition: color 0.4s;
+  -o-transition: color 0.4s;
+  transition: color 0.4s;
+}
+.projects-4 .projects .name.color-wisteria:hover,
+.projects-4 .projects .name.color-wisteria.hover {
+  color: #8e44ad;
+  -webkit-transition: color 0.4s;
+  -moz-transition: color 0.4s;
+  -o-transition: color 0.4s;
+  transition: color 0.4s;
+}
 .projects-4 .projects .project:hover .photo {
   opacity: 40;
   filter: alpha(opacity=4000);
